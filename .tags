@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/arjun/repos/github.com/arjungandhi/cadquery-test/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+any	marker_holder/tox.ini	/^allow-star-arg-any = true$/;"	k	section:flake8
+ball_radius	gemin-strong-shape/main.py	/^ball_radius = 15$/;"	v
+ball_radius	strong-shape/main.py	/^ball_radius = 15$/;"	v
+cq	box/main.py	/^import cadquery as cq$/;"	I	nameref:module:cadquery
+cq	gemin-strong-shape/main.py	/^import cadquery as cq$/;"	I	nameref:module:cadquery
+cq	marker_holder/marker_holder.py	/^import cadquery as cq$/;"	I	nameref:module:cadquery
+cq	strong-shape/main.py	/^import cadquery as cq$/;"	I	nameref:module:cadquery
+exclude	marker_holder/tox.ini	/^exclude =$/;"	k	section:flake8
+flake8	marker_holder/tox.ini	/^[flake8]$/;"	s
+ignore	marker_holder/tox.ini	/^ignore = $/;"	k	section:flake8
+length	marker_holder/tox.ini	/^max-line-length = 88$/;"	k	section:flake8
+main	box/main.py	/^def main():$/;"	f
+main	gemin-strong-shape/main.py	/^def main():$/;"	f
+main	marker_holder/marker_holder.py	/^def main():$/;"	f
+main	strong-shape/main.py	/^def main():$/;"	f
+marker	marker_holder/marker_holder.py	/^marker = {$/;"	v
+markerbody	marker_holder/marker_holder.py	/^def markerbody():$/;"	f
+names	marker_holder/tox.ini	/^application-import-names = flake8$/;"	k	section:flake8
+r	box/main.py	/^    r = main()$/;"	v
+r	gemin-strong-shape/main.py	/^    r = main()$/;"	v
+r	marker_holder/marker_holder.py	/^    r = main()$/;"	v
+r	strong-shape/main.py	/^    r = main()$/;"	v
+return	marker_holder/tox.ini	/^mypy-init-return = true$/;"	k	section:flake8
+returning	marker_holder/tox.ini	/^suppress-none-returning = true$/;"	k	section:flake8
+shaft_girth	gemin-strong-shape/main.py	/^shaft_girth = 15$/;"	v
+shaft_girth	strong-shape/main.py	/^shaft_girth = 15$/;"	v
+shaft_length	gemin-strong-shape/main.py	/^shaft_length = 60$/;"	v
+shaft_length	strong-shape/main.py	/^shaft_length = 80$/;"	v
+style	marker_holder/tox.ini	/^import-order-style = google$/;"	k	section:flake8
+tip_fillet	gemin-strong-shape/main.py	/^tip_fillet = shaft_girth$/;"	v
+tip_fillet	strong-shape/main.py	/^tip_fillet = shaft_girth$/;"	v
